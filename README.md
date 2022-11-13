@@ -13,7 +13,10 @@
 
 <div style="display: inline_block"><br>
   <strong>Stacks: </strong>
-  ##
+</div>
+
+##
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
