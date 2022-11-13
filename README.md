@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Salomão da Silva! 👋🏼</h1>
-<p>- Full stack developer 🧑🏻‍💻</p>
+<p>- Full Stack Developer 🧑🏻‍💻</p>
 <p>- Computer Science Student 🖥️</p>
 
 ##
